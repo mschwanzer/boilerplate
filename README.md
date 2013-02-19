@@ -1,0 +1,1 @@
+[ ![Codeship Status for mschwanzer/boilerplate](https://www.codeship.io/projects/518ea470-5c6b-0130-05e6-22000a1d8cf3/status?branch=master)](https://www.codeship.io/projects/1551)
